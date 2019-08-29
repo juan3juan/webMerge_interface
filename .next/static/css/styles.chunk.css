@@ -268,19 +268,5 @@ html {
     width:60%;
   }
   
-.mappings {
-    margin-left: 20px;
-    margin-bottom: 30px;
-}
-
-.header {
-    display: flex;
-    justify-content: space-between;
-}
-
-.header > div {
-    margin:20px;
-    margin-right: 40px;
-}
 
 /*# sourceMappingURL=styles.chunk.css.map*/

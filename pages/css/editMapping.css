@@ -12,3 +12,16 @@
     margin:20px;
     margin-right: 40px;
 }
+
+.table-borderless td, .table-borderless th{
+    border: 0;
+    padding: 20px;
+}
+
+.options {
+    padding: 20px;
+}
+
+.fieldMapping {
+    padding: 20px;
+}

@@ -204,80 +204,80 @@ function Index() {
     content: "WebMerge Settings",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 8
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "wrapper fadeInDown",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 9
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "formContent",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 10
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "fadeIn first",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 11
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 13
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
     type: "text",
     id: "login",
-    class: "fadeIn second",
+    className: "fadeIn second",
     name: "login",
     placeholder: "Api key",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 14
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
     type: "text",
     id: "password",
-    class: "fadeIn third",
+    className: "fadeIn third",
     name: "login",
     placeholder: "Api Secret",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 21
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
     type: "submit",
-    class: "fadeIn fourth",
+    className: "fadeIn fourth",
     value: "Authorize",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 28
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "formFooter",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 31
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    class: "underlineHover",
+    className: "underlineHover",
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 32
     },
     __self: this
   }, "Don't have a WebMerge account?Sign up here")))));
